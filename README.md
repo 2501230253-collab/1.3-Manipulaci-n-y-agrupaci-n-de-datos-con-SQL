@@ -15,5 +15,5 @@ Proyecto académico donde se realizan consultas SQL utilizando INNER JOIN en la 
 4. Ejecutar los scripts SQL incluidos en el repositorio.
 
 ## Autor
-Luis Angel Hernandez Coroan
+Luis Angel Hernandez Corona
 
